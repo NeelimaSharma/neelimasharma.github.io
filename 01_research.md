@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-How does the need to remain mechanically stable impose constraints on body form and function? 
+# How does the need to remain mechanically stable impose constraints on body form and function? 
 
 Aspect ratio of animals: 
 A fundamental allometric relationship in terrestrial animals is the systematic increase in the body’s slenderness from sprawling insects that weigh milligrams to erect elephants that weigh over a thousand kilograms. Because natural terrains are often rough and uneven, the slenderness of an animal affects the ability to not fall down and maintain a stable upright posture. An animal with the same height but a wider base of support is less slender and therefore more stable on uneven terrains. We wondered whether the geophysical properties of our planet, namely the statistical properties of terrain unevenness underlies this allometric scaling of body shape. For natural terrains, the height variation between two points is known to be related to the horizontal separation between the points according to a power law. Using measured terrain statistics and the conditions for stability, we find that lighter animals have to necessarily have a wider base than height. This physics-based model, informed solely by data on terrain statistics, is predictive of animal data on mass versus slenderness over a span of eight orders of magnitude. Small animals, therefore, face a terrain that is disproportionately more uneven than that faced by larger animals. Besides highlighting the importance of considering environmental factors in evolution, these results suggest design constraints on robots of the future that will locomote over natural terrains much as animals do.
