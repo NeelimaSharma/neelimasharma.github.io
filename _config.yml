@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Neelima Sharma 
-email: neelima dot sharma @ yale dot edu
+email: neelima dot sharma at yale dot edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a graduate student in Biomechanics and Control Lab at Yale University interested in the role of mechanical constraints in evolution of body form and function.
-  Superpower: Neither afraid of equations nor of experiments. 
+  I am a graduate student in Biomechanics and Control Lab at Yale University interested in the role of mechanical constraints in the evolution of animal form and function.
+  Life conundrum: I find both mathematical equations and biological experiments beautiful. 
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
