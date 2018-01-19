@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Not about Ph.D.
-permalink: /about/
+permalink: /notabout/
 ---
 
 I like mountaineering, hiking, sketching, taking long walks, reading fiction and poems. 
