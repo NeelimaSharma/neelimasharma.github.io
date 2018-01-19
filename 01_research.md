@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Research
 permalink: /research/
 ---
-
-# How does the need to remain mechanically stable impose constraints on body form and function? 
+### Mechanical stability constraints form
 
 _Aspect ratio of animals_: 
 
