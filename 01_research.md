@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Research
 permalink: /research/
 ---
 ### Mechanical stability constraints form

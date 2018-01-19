@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-Hello
+“It is not necessary to accept everything as true, one must only accept it as necessary”
