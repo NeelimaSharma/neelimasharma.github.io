@@ -4,7 +4,9 @@ title: Embryology
 permalink: /emb2017/
 ---
 
-Pretty pictures coming soon. 
+[Cilia beating on Xenopus](https://vimeo.com/331513807)
+[Hydra](https://vimeo.com/331514151)
+
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
