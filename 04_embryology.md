@@ -4,15 +4,21 @@ title: Embryology
 permalink: /emb2017/
 ---
 
-Links to cool videos: 
+**Links to cool videos:** 
 
-[Cilia beating on Xenopus](https://vimeo.com/331513807)
+1. [Zebrafish embryo growth](https://vimeo.com/331514590)
 
-[Hydra](https://vimeo.com/331514151)
+2. [C. elegans coputation](https://vimeo.com/331515115)
 
-[Ciona cell division](https://vimeo.com/331514404)
+3. [Cilia beating on Xenopus](https://vimeo.com/331513807)
 
-[Zebrafish embryo growth](https://vimeo.com/331514590)
+4. [Ciona cell division](https://vimeo.com/331514404)
+
+5. [Hydra in 3D](https://vimeo.com/331514151)
+
+**Images:**
+
+![Butterfly wings](/images/wing.png)
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
