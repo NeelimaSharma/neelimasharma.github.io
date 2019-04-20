@@ -8,7 +8,7 @@ permalink: /afterhours/
 
 **Art**
 
-**Books and quotes**
+**Books**
 
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
