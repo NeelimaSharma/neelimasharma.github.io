@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Other projects
-permalink: /notabout/
+title: Embryology
+permalink: /emb2017/
 ---
 
-Fitting a NURBS surface on a grid of points. 
+Pretty pictures coming soon. 
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
