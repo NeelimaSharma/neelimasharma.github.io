@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Life beyond Ph.D. 
-permalink: /life/
+title: After hours 
+permalink: /afterhours/
 ---
 
 **Travel**
