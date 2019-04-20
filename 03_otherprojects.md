@@ -1,15 +1,33 @@
 ---
 layout: page
-title: Life beyond Ph.D. 
-permalink: /life/
+title: Fun projects
+permalink: /otherproj/
 ---
 
-**Travel**
+**Links to cool videos:** 
 
-**Art**
+1. [Zebrafish embryo growth](https://vimeo.com/331514590)
 
-**Books and quotes**
+2. [C. elegans copulation](https://vimeo.com/331515115)
 
+3. [Cilia beating on Xenopus](https://vimeo.com/331513807)
+
+4. [Ciona cell division](https://vimeo.com/331514404)
+
+5. [Hydra in 3D](https://vimeo.com/331514151)
+
+6. [Xenopus embryo and beads](https://vimeo.com/331515496)
+
+**Images:**
+
+![Butterfly wings](/images/wing.png)
+
+
+**Codes**
+
+1. Fitting a NURBS surface on a grid of points.
+
+2. Calculating surface properties for regular surfaces. 
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
