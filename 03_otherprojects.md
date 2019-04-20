@@ -4,9 +4,9 @@ title: Other projects
 permalink: /notabout/
 ---
 
-I like mountaineering, hiking, sketching, painting, reading fiction and poems. 
-Borges, Kafka, Calvino are some of my favorites. 
-I will upload my art soon. 
+
+
+<!-- Art. Quotes. Embryology. Other projects.  --> 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
