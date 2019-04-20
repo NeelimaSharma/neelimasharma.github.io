@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ph.D.
+title: About
 permalink: /about/
 ---
 
