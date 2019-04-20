@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other projects
-permalink: /notabout/
+permalink: /others/
 ---
 
 Fitting a NURBS surface on a grid of points. 
