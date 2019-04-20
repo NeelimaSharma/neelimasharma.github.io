@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not about Ph.D.
+title: Other projects
 permalink: /notabout/
 ---
 
