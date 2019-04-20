@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Other projects
-permalink: /others/
+title: Life beyond Ph.D. 
+permalink: /life/
 ---
 
-Fitting a NURBS surface on a grid of points. 
+**Travel**
+
+**Art**
+
+**Books and quotes**
+
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Embryology
-permalink: /emb2017/
+title: Fun projects
+permalink: /otherproj/
 ---
 
 **Links to cool videos:** 
 
 1. [Zebrafish embryo growth](https://vimeo.com/331514590)
 
-2. [C. elegans coputation](https://vimeo.com/331515115)
+2. [C. elegans copulation](https://vimeo.com/331515115)
 
 3. [Cilia beating on Xenopus](https://vimeo.com/331513807)
 
@@ -16,9 +16,18 @@ permalink: /emb2017/
 
 5. [Hydra in 3D](https://vimeo.com/331514151)
 
+6. [Xenopus embryo and beads](https://vimeo.com/331515496)
+
 **Images:**
 
 ![Butterfly wings](/images/wing.png)
+
+
+**Codes**
+
+1. Fitting a NURBS surface on a grid of points.
+
+2. Calculating surface properties for regular surfaces. 
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
