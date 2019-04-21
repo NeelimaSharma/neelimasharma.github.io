@@ -4,7 +4,9 @@ title: Fun projects
 permalink: /otherproj/
 ---
 
-**Links to cool videos:** 
+**Links to cool microscopy videos:** 
+
+(from the Embryology 2017 course at MBL, Woods Hole)
 
 1. [Zebrafish embryo growth](https://vimeo.com/331514590)
 
@@ -20,9 +22,13 @@ permalink: /otherproj/
 
 **Images:**
 
+The wing and pigments of _Teinopalpus imperialis_, a buttefly from the Himalayas. 
+
 ![Butterfly wings](/images/Teinopalpus_imperialis.png)
 
-![SEM images of butterfly wings](/images/Teinopalpus_Neelima_002.tif)
+SEM images of wing pigments
+
+![SEM images of butterfly wings](/images/Teinopalpus_SEM.png)
 
 **Codes**
 
