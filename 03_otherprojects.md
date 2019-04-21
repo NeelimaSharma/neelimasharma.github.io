@@ -20,13 +20,16 @@ permalink: /otherproj/
 
 **Images:**
 
-![Butterfly wings](/images/wing.png)
+![Butterfly wings](/images/Teinopalpus_imperialis.png)
 
-<!-- **Codes**
+![SEM images of butterfly wings](/images/Teinopalpus_Neelima_002.tif)
 
-1. Fitting a NURBS surface on a grid of points.
+**Codes**
 
-2. Calculating surface properties for regular surfaces.  -->
+Fitting a NURBS surface to a grid of points.
+
+
+
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
