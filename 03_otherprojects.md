@@ -22,12 +22,11 @@ permalink: /otherproj/
 
 ![Butterfly wings](/images/wing.png)
 
-
-**Codes**
+<!-- **Codes**
 
 1. Fitting a NURBS surface on a grid of points.
 
-2. Calculating surface properties for regular surfaces. 
+2. Calculating surface properties for regular surfaces.  -->
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
 
