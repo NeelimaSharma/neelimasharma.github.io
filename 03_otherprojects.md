@@ -22,11 +22,11 @@ permalink: /otherproj/
 
 **Images:**
 
-The wing and pigments of _Teinopalpus imperialis_, a buttefly from the Himalayas. 
+The wing and wing-scales of _Teinopalpus imperialis_, a buttefly from the Himalayas. 
 
 ![Butterfly wings](/images/Teinopalpus_imperialis.png)
 
-SEM images of wing pigments
+Scanning electron microscopy images of wing scales show gyroid structure. 
 
 ![SEM images of butterfly wings](/images/Teinopalpus_SEM.png)
 
