@@ -34,7 +34,9 @@ Scanning electron microscopy images of wing scales show gyroid structure.
 
 Fitting a NURBS surface to a grid of points.
 
-
+```{r, echo=FALSE}
+htmltools::includeHTML("nurbs_parametric.html")
+```
 
 
 <!-- Art. Quotes. Embryology. Other projects.  --> 
