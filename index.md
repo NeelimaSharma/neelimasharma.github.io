@@ -6,6 +6,6 @@ layout: page
 ---
 <!-- Life conundrum 1: I am a graduate student who wishes that graduate school never ended. 
 
-Life conundrum 2: I find both mathematical equations and biological experiments beautiful.  -->
+<!-- Life conundrum 2: I find both mathematical equations and biological experiments beautiful.  --> -->
 
-“It is not necessary to accept everything as true, one must only accept it as necessary”
+<!-- “It is not necessary to accept everything as true, one must only accept it as necessary” -->
