@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### Dissertation Title (PhD): On the role of stability in animal morphology and neural control
+<!-- ### Dissertation Title (PhD): On the role of stability in animal morphology and neural control -->
 
 **_Size and shape of terrestrial animals_**
 
