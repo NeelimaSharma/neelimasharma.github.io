@@ -10,7 +10,7 @@ layout: page
 
 <!-- “It is not necessary to accept everything as true, one must only accept it as necessary” -->
 
-<img style="float: left;" src="images/photo.jpg" width="150">&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="float: left;" src="images/photo.jpg" width="180">&nbsp;&nbsp;&nbsp;&nbsp;
 
 I am a Postdoctoral Scholar in the Shubin Lab at the Department of Organismal Biology and Anatomy at University of Chicago. I did my Ph.D. at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](mvlab.yale.edu) under the advisement of Prof. Madhu Venkadesan. I am interested in learning the effect of mechanics on the morphology, control, and development of animals. My Ph.D. explored the role of the constraint of mechanical stability on animal morphology and neural control in humans. Moving forward, I am interested in learning about the role of muscle mechanics in the development and morphogenesis of synovial joints. 
 
