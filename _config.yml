@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Neelima Sharma
-email: neelima.sharma@yale.edu 
-email_space: neelima dot sharma at yale dot edu
+email: neelima.sharma@uchicago.edu 
+email_space: neelima dot sharma at uchicago dot edu
 description: >- # this means to ignore newlines until "baseurl:"
-   Wide-eyed. 
+
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
