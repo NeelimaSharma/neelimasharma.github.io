@@ -26,7 +26,8 @@ The perturbation response of muscle is important for the versatile, stable and a
 
 Flexural joints are becoming increasingly prevalent in monolithic robotic limbs. A flexural joint is made up of a soft elastic interconnecting piece, called the flexure, between two stiffer segments. When the joint is flexed by an external force, most of the flexion is concentrated within the soft flexural element. While several detailed analyses exist for specific geometries of flexures, an all encapsulating theory for flexure function is missing. We use simple models to specifically characterize how the stiffness of flexure scales with size. We find that stable flexures severely limit the maximal rotation of actuated flexural joints, with typical values of rotation being less than 0.2 radians. This limit is independent of the size of the joint. In calculating this bound, we optimistically assume that the joints are actuated by motors whose torque density is as high as biological muscle. These results call into question the feasibility of flexural joints, especially for mobile or lightweight applications that use weaker actuators. We find the scaling relationships for the range of rotation of an actuated flexural joint as a function of the flexure’s material properties, cross-sectional geometry, and the torque density of the actuator. These results provide guidelines for the design and development of scalable flexural robotic limbs.
 
-Ph.D. dissertation: _On the role of stability in animal morphology and neural control_ [Full text](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1)
+Ph.D. dissertation: _On the role of stability in animal morphology and neural control_ 
 
-[Thesis defense](https://www.youtube.com/watch?v=IGwHq4HRJcY)
+[Full text](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1)
 
+[Thesis defense video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
