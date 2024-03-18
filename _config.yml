@@ -40,6 +40,7 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
+layout: single
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # url: "https://www.neelimasharma.com"
 atom_feed:
@@ -123,4 +124,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
