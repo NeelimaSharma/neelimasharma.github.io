@@ -39,7 +39,8 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 layout: single
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # url: "https://www.neelimasharma.com"
@@ -72,7 +73,8 @@ author:
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-1631-5918"
-# plugins:
+plugins:
+      - jekyll-include-cache
 #   - jekyll-feed
 #   - jekyll-seo-tag
 
