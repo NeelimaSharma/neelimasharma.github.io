@@ -31,7 +31,13 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 url: "https://www.neelimasharma.com"
-repository: "username/repo-name"
+repository: "NeelimaSharma/neelimasharma.github.io"
+title: "Neelima Sharma"
+.page__meta-sep::before {
+  content: "\2022";
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
