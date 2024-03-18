@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Neelima Sharma
-email: neelima.sharma@uchicago.edu 
-email_space: neelima dot sharma at uchicago dot edu
-description: >- # this means to ignore newlines until "baseurl:"
+# title: Neelima Sharma
+# email: neelima.sharma@uchicago.edu 
+# email_space: neelima dot sharma at uchicago dot edu
+# description: >- # this means to ignore newlines until "baseurl:"
 
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@42neelima"
-github_username:  
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: "@42neelima"
+# github_username:  
 
 # Build settings
 markdown: kramdown
@@ -33,11 +33,35 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 url: "https://www.neelimasharma.com"
 repository: "NeelimaSharma/neelimasharma.github.io"
 title: "Neelima Sharma"
-.page__meta-sep::before {
-  content: "\2022";
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-}
+atom_feed:
+  hide: true
+search: true
+lunr:
+  search_within_pages: true
+author:
+  name     : "Neelima Sharma"
+  avatar   : "/images/headshot.png"
+  bio      : "_We are not students of some subject matter, but students of problems. And problems may cut right across the boundaries of any subject matter or discipline_  --Karl Raimund Popper"
+  location : "Chicago, USA"
+  links:
+    - label: "Website"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.neelimasharma.com"
+    - label: "University of Chicago"
+      icon: "fab fa-fw fa-building-columns"
+      url: "https://shubinlab.uchicago.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/42neelima"
+    - label: "Mail"
+      icon: "fab fa-fw fa-envelope"
+      url: "neelima.sharma@uchicago.edu"
+      - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-1631-5918"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
