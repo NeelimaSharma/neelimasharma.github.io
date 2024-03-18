@@ -1,12 +1,22 @@
-# main links
+# main links links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://neelimasharma.github.io/
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: /publications/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
