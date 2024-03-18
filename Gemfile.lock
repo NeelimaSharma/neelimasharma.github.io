@@ -90,7 +90,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   minimal-mistakes-jekyll
-  tzinfo-data
 
 BUNDLED WITH
    2.3.26
