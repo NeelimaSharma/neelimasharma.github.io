@@ -28,7 +28,10 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url: "https://www.neelimasharma.com"
+repository: "username/repo-name"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
