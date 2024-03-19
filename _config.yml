@@ -41,7 +41,7 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-layout: single
+# layout: single
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # url: "https://www.neelimasharma.com"
 atom_feed:
@@ -108,18 +108,19 @@ kramdown:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 include:
   - _redirects
-include: ["_pages"]
+  - _pages
+# include: ["_pages"]
 
 # HTML Compression
 # - http://jch.penibelst.de/
