@@ -33,13 +33,13 @@ title_separator          : "-"
 name                     : &name "Neelima Sharma"
 description              : &description "Applied Mathematics, Biomechanics, Developmental Biology"
 url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
 author:
   name     : "Neelima Sharma"
-  avatar   : "portrait.png"
+  avatar   : "images/portrait.png"
   bio      : "Applied Mathematics, Biomechanics, Developmental Biology"
   location         : "Chicago, US"
   employer         : "University of Chicago"
