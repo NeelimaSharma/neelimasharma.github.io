@@ -33,7 +33,7 @@ title_separator          : "-"
 name                     : &name "Neelima Sharma"
 description              : &description "Applied Mathematics, Biomechanics, Developmental Biology"
 url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://neelimasharma.github.io/about" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
@@ -132,7 +132,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -156,7 +155,7 @@ kramdown:
   enable_coderay: false
 
 # Defaults
-# defaults:
+defaults:
 #   # _posts
 #   - scope:
 #       path: ""
@@ -168,13 +167,13 @@ kramdown:
 #       # comments: true
 #       # share: true
 #       related: true
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 #   # _teaching
 #   - scope:
 #       path: ""
@@ -253,10 +252,10 @@ whitelist:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include:
-  - _redirects
-  - _pages
-# include: ["_pages"]
+# include:
+#   - _redirects
+#   - _pages
+# # include: ["_pages"]
 
 # HTML Compression
 # - http://jch.penibelst.de/
