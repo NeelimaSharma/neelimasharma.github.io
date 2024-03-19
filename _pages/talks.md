@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-- **Ph.D. dissertation**: _On the role of stability in animal morphology and neural control_ [Video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
-- **Size and shape of terrestrial animals** [Video](https://youtu.be/C55yA767XjA) 
+- _On the role of stability in animal morphology and neural control_ [Ph.D. dissertation video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
+- _Size and shape of terrestrial animals_ [Video](https://youtu.be/C55yA767XjA) 
 
 ## Recent Talks
 
