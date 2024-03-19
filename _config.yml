@@ -39,7 +39,7 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 
 author:
   name     : "Neelima Sharma"
-  avatar   : "docs/assets/images/headshot.png"
+  avatar   : "headshot.png"
   # avatar : ![myimg](images/portrait.jpg)
   bio      : "Applied Mathematics, Biomechanics, Developmental Biology"
   location         : "Chicago, US"
