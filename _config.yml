@@ -37,46 +37,184 @@ baseurl                  : "https://neelimasharma.github.io/about" # the subpath
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
-# Build settings
-markdown: kramdown
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# layout: single
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# url: "https://www.neelimasharma.com"
-atom_feed:
-  hide: true
-search: true
-lunr:
-  search_within_pages: true
 author:
   name     : "Neelima Sharma"
   avatar   : "/images/headshot.png"
   bio      : "_We are not students of some subject matter, but students of problems. And problems may cut right across the boundaries of any subject matter or discipline_  --Karl Raimund Popper"
-  location : "Chicago, USA"
-  links:
-    - label: "Website"
-      icon: "fab fa-fw fa-link"
-      url: "https://www.neelimasharma.com"
-    - label: "University of Chicago"
-      icon: "fab fa-fw fa-building-columns"
-      url: "https://shubinlab.uchicago.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/42neelima"
-    - label: "Mail"
-      icon: "fab fa-fw fa-envelope"
-      url: "neelima.sharma@uchicago.edu"
-      - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en"
-    - label: "ORCiD"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-1631-5918"
-plugins:
-      - jekyll-include-cache
-#   - jekyll-feed
-#   - jekyll-seo-tag
+  location         : "Chicago, US"
+  employer         : "University of Chicago"
+  uri              : # URL
+  email            : "neelima.sharma@uchicago.edu" 
+    # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en"
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-1631-5918"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+    # Social media
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # facebook         : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  # instagram        : # Username
+  # lastfm           : # Username
+  linkedin         : neelima-sharma-672376184
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
+  # steam            : # Username
+  # telegram         : # URL
+  # tumblr           : # Username
+  twitter          : "42neelima"  # Replace this with your X / Twitter handle
+  # vine             : # Username
+  # weibo            : # Username
+  # wikipedia        : # Username
+  # xing             : # Username
+  # youtube          : # Username
+  # zhihu            : # URL
+  # links:
+  #   - label: "Website"
+  #     icon: "fab fa-fw fa-link"
+  #     url: "https://www.neelimasharma.com"
+  #   - label: "University of Chicago"
+  #     icon: "fab fa-fw fa-building-columns"
+  #     url: "https://shubinlab.uchicago.edu"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/42neelima"
+  #   - label: "Mail"
+  #     icon: "fab fa-fw fa-envelope"
+  #     url: "neelima.sharma@uchicago.edu"
+  #     - label: "Google Scholar"
+  #     icon: "fab fa-fw fa-google-scholar"
+  #     url: "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en"
+  #   - label: "ORCiD"
+  #     icon: "fab fa-fw fa-orcid"
+  #     url: "https://orcid.org/0000-0002-1631-5918"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  # - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# layout: single
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Plugins
 plugins:
@@ -93,17 +231,15 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
+# # Build settings
+# markdown: kramdown
+# # url: "https://www.neelimasharma.com"
+# atom_feed:
+#   hide: true
+# search: true
+# lunr:
+#   search_within_pages: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -128,11 +264,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
