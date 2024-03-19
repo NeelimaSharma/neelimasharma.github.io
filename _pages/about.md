@@ -24,12 +24,11 @@
 
 ---
 permalink: /
-layout: single
-<!-- title: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html -->
+  - /about.html
 ---
 
 <!-- ![myimg](images/headshot.png){: width="250px" style="float:left; padding-right:10px" } -->
