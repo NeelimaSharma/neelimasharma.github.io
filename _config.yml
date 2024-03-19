@@ -30,7 +30,7 @@
 locale                   : "en-US"
 title                    : "Neelima Sharma"
 title_separator          : "-"
-name                     : &name "Neelima Sharma"
+name                     : &name ""
 description              : &description "Applied Mathematics, Biomechanics, Developmental Biology"
 url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -39,8 +39,7 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 
 author:
   name     : ""
-  avatar   : "/master/docs/assets/images/headshot.png"
-  # avatar : ![myimg](images/portrait.jpg)
+  avatar   : "headshot.png"
   bio      : "Applied Mathematics, Biomechanics, Developmental Biology"
   location         : "Chicago, US"
   employer         : "University of Chicago"
