@@ -1,11 +1,15 @@
 ---
 layout: single
-title: Research
+# title: Questions
 permalink: /research/
 author_profile: true
 ---
 
-**_Finger stability in precision grips_**
+![myimg](images/figure1.png){: width="600px" style="float:left; padding-right:10px" }
+
+What is the role of mechanics and physical principles in shaping and controlling the musculoskeletal system in vertebrates? The musculoskeletal system in vertebrates allows movement for motor tasks. Thus, it is ideal for studying how physical and mechanical laws that our bodies are subject to while performing motor tasks shape neural control over a lifetime and morphology over the course of millions of years. Furthermore, development and embryogenesis connect the widely-separated timescales between lifetimes and evolution, and increasing evidence shows that mechanical control plays a crucial role in skeletal morphogenesis and developmental plasticity in adults. I am interested in understanding the interplay between mechanical control and downstream genetic regulation during development in shaping the final form, to search for a relationship between the timescales of a lifetime and evolution.
+
+<!-- **_Finger stability in precision grips_**
 
 [Full text](https://www.pnas.org/doi/10.1073/pnas.2122903119)
 
@@ -31,4 +35,4 @@ Ph.D. dissertation: _On the role of stability in animal morphology and neural co
 
 [Full text](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1)
 
-[Thesis defense video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
+[Thesis defense video](https://www.youtube.com/watch?v=IGwHq4HRJcY) -->
