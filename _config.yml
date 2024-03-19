@@ -33,7 +33,7 @@ title_separator          : "-"
 name                     : &name "Neelima Sharma"
 description              : &description "Applied Mathematics, Biomechanics, Developmental Biology"
 url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
