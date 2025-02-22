@@ -20,7 +20,7 @@ redirect_from:
 
 <!-- <img style="float: left;" src="images/photo.jpg" width="150">&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-![myimg](docs/assets/images/headshot.png){: width="250px"}
+<!-- ![myimg](docs/assets/images/headshot.png){: width="250px"} -->
 
 I am a Postdoctoral Scholar in the [Shubin Lab](shubinlab.uchicago.edu) at the Department of Organismal Biology and Anatomy at University of Chicago. I did my Ph.D. at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](mvlab.yale.edu) under the mentorship of Prof. Madhu Venkadesan. 
 
