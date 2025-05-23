@@ -119,7 +119,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # layout: single
 # minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
