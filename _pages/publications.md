@@ -15,4 +15,8 @@ author_profile: true
 
 Please see my profile at [Google scholar](https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en). 
 
+## Blog
+
+When did our flexible and lubricated joints evolve? [(The Node)](https://thenode.biologists.com/when-did-our-flexible-and-lubricated-joints-evolve/research/). 
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
