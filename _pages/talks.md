@@ -16,3 +16,7 @@ author_profile: true
 - **Origin and evolution of synovial joints.** 2024 Society for Integrative and Comparative Biology Annual Meeting. [January 2024] 
 - **Pectoral joint of Devonian Antiarch fishes produced stridulating sounds.** 83rd Annual Meeting of Society of Vertebrate Paleontology. [October 2023] 
 - **Size and shape of terrestrial animals.** XXVIII Congress of the International Society for Biomechanics. [July 2021]
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+

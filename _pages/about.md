@@ -27,3 +27,6 @@ I am a Postdoctoral Scholar in the [Shubin Lab](shubinlab.uchicago.edu) at the D
 I am interested in learning the effect of mechanics on the morphology, control, and development of animals. My Ph.D. explored the role of mechanical stability on animal morphology and neural control. In my postdoctoral research, I am learning about the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal system. 
 
 <!-- [Other website](https://campuspress.yale.edu/nsharma/) -->
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+

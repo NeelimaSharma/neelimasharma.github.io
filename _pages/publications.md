@@ -14,3 +14,5 @@ author_profile: true
 - _On the role of stability in animal morphology and neural control_. **Sharma, N**. ProQuest, 2021. [Full text, dissertation](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1) -->
 
 Please see my profile at [Google scholar](https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en). 
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

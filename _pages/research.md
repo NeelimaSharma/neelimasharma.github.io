@@ -40,3 +40,6 @@ Ph.D. dissertation: _On the role of stability in animal morphology and neural co
 [Full text](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1)
 
 [Thesis defense video](https://www.youtube.com/watch?v=IGwHq4HRJcY) -->
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
