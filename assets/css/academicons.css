@@ -5,15 +5,15 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Academicons';
+    font-family: 'cmunrm';
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
+    src:url('../fonts/cmunrm.ttf');
+    /* src:url('../fonts/academicons.eot') format('embedded-opentype'),
         url('../fonts/academicons.ttf') format('truetype'),
         url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+        url('../fonts/academicons.svg') format('svg'); */
 }
 .ai {
   font-family: 'Academicons';
