@@ -10,7 +10,7 @@ $doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 0.875em; // 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
@@ -28,8 +28,12 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+// $global-font-family         : $sans-serif;
+// $header-font-family         : $sans-serif;
+// $caption-font-family        : $serif;
+
+$global-font-family         : $serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
