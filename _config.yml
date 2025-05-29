@@ -38,9 +38,9 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
 author:
-  name     : ""
+  name     : "Neelima Sharma"
   avatar   : "portrait_2025.JPG"
-  bio      : "Applied Mathematics, Biomechanics, Developmental Biology"
+  bio      : "Comparative Biomechanics, Embryology, Applied Mathematics"
   location         : "Chicago, US"
   employer         : "University of Chicago"
   uri              : # URL
@@ -69,7 +69,7 @@ author:
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : "42neelima"  # Replace this with your X / Twitter handle
+  bsky          : "neelimasharma@bsky.social"  # Replace this with your X / Twitter handle
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
