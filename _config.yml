@@ -39,7 +39,8 @@ repository               : "NeelimaSharma/neelimasharma.github.io"
 
 author:
   name     : ""
-  avatar   : "docs/assets/images/profile.png"
+  avatar   : "" 
+  # docs/assets/images/profile.png
   bio      : "Comparative Biomechanics, Embryology, Applied Mathematics"
   location         : "Chicago, US"
   employer         : "University of Chicago"
