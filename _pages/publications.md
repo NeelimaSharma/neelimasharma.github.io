@@ -19,11 +19,11 @@ Please see my profile at [Google scholar](https://scholar.google.com/citations?u
 
 When did our flexible and lubricated joints evolve? [(The Node)](https://thenode.biologists.com/when-did-our-flexible-and-lubricated-joints-evolve/research/). 
 
-## News 
+## Recent News 
 
 - Humans have the earliest jawed fish to thank for their flexible joints, study suggests. [(Phys.Org)](https://phys.org/news/2025-02-humans-earliest-jawed-fish-flexible.html).
 - Flexible joints evolved as jawed fish began life as predators. [(UChicago News)](https://biologicalsciences.uchicago.edu/news/flexible-joint-evolution).
-- Where do elbows and knees come from? Biologists track them back to our boneless, sharklike ancestors. [(Science.org)](https://www.science.org/content/article/).
-- Getting a grip on hand function. [(Yale SEAS)](https://seas.yale.edu/news-events/news/getting-grip-hand-function).
+- Where do elbows and knees come from? Biologists track them back to our boneless, sharklike ancestors. [(Science.org)](https://www.science.org/content/article/where-do-elbows-and-knees-come-biologists-track-them-back-our-boneless-shark-ancestors).
+<!-- - Getting a grip on hand function. [(Yale SEAS)](https://seas.yale.edu/news-events/news/getting-grip-hand-function). -->
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
