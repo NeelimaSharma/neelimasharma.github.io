@@ -31,14 +31,14 @@ locale                   : "en-US"
 title                    : "Neelima Sharma"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Applied Mathematics, Biomechanics, Developmental Biology"
+description              : &description "Interested in the role of mechanics in development and function."
 url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
 
 author:
-  name     : ""
+  name     : "Neelima Sharma"
   avatar   : "" 
   # docs/assets/images/profile.png
   bio      : "Comparative Biomechanics, Embryology, Applied Mathematics"
