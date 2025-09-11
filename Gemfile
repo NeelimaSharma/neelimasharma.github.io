@@ -18,6 +18,9 @@ gem "github-pages", group: :jekyll_plugins
 # gem "minimal-mistakes-jekyll"
 gem "minima"
 
+gem 'csv'
+gem 'logger'
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
