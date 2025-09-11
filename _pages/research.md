@@ -1,6 +1,6 @@
 ---
 layout: single
-# title: Questions
+title: Research
 permalink: /research/
 author_profile: true
 ---
