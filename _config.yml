@@ -122,9 +122,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 # theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # remote_theme: pages-themes/tactile@v0.2.0
-remote_theme: "jekyll/minima@1e8a445"
+# remote_theme: "jekyll/minima@1e8a445"
 layout: single
 # minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
