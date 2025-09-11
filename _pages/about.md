@@ -22,9 +22,9 @@ redirect_from:
 
 ![myimg](docs/assets/images/profile.png){: width="250px"}
 
-I am a Postdoctoral Scholar in the [Shubin Lab](shubinlab.uchicago.edu) at the Department of Organismal Biology and Anatomy at the University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](mvlab.yale.edu) under the mentorship of Prof. Madhu Venkadesan. 
+In my research, I am interested in learning the effect of mechanics on the morphology, control, and development of animals. In my past research, I explored the role of mechanical stability on animal morphology and neural control. More recently, I am understanding the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal system. 
 
-I am interested in learning the effect of mechanics on the morphology, control, and development of animals. My Ph.D. explored the role of mechanical stability on animal morphology and neural control. In my postdoctoral research, I am learning about the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal system. 
+I am presently a Postdoctoral Scholar in the [Shubin Lab](shubinlab.uchicago.edu) at the Department of Organismal Biology and Anatomy, University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](mvlab.yale.edu) under the mentorship of Prof. Madhu Venkadesan.
 
 <!-- [Other website](https://campuspress.yale.edu/nsharma/) -->
 
