@@ -5,10 +5,35 @@ permalink: /research/
 author_profile: true
 ---
 
-How do mechanics and behavior affect embryological patterning, morphogenesis, and function of vertebrate musculoskeleton? By blending computational and experimental approaches, I aim to understand the role of mechanics and
-motor function in the morphology and development of diverse musculoskeletal systems. 
+How do mechanics and behavior affect embryological patterning, morphogenesis, and function of the vertebrate musculoskeletal system? By combining computational and experimental approaches, I aim to understand the role of mechanics and motor function in shaping the morphology and development of diverse vertebrate forms.
 
 ![figure1](figureoverall.png){: width="650px"}
+
+## Publications
+
+<!-- - _Evolutionary origins of synovial joints_. **Sharma, N.**, Haridy, Y, Shubin, N. BioRxiv, 2023.  [Full text](https://www.biorxiv.org/content/biorxiv/early/2024/04/03/2024.04.02.587820.full.pdf)
+- _The minimum intervention principle of optimal control relates the uncontrolled manifold to muscle synergies_. **Sharma, N**, BioRxiv, 2022. [Full text](https://www.biorxiv.org/content/10.1101/2023.08.18.553939v1.full)
+- _Finger stability in precision grips_. **Sharma, N**, Venkadesan, M. PNAS, 2021. [Full text](https://www.pnas.org/doi/10.1073/pnas.2122903119)
+- _Active viscoelasticity in sarcomeres_. Nguyen, K, **Sharma, N**, Venkadesan, M. Frontiers in Robotics and AI, 2018. [Full text](https://www.frontiersin.org/articles/10.3389/frobt.2018.00069/full)
+- _On the role of stability in animal morphology and neural control_. **Sharma, N**. ProQuest, 2021. [Full text, dissertation](https://www.proquest.com/docview/2632151295/A5347722E48E4D3BPQ/1) -->
+
+Please see my profile at [Google scholar](https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en). 
+
+## Blog
+
+When did our flexible and lubricated joints evolve? [(The Node)](https://thenode.biologists.com/when-did-our-flexible-and-lubricated-joints-evolve/research/). 
+
+## Recent News 
+
+- Humans have the earliest jawed fish to thank for their flexible joints, study suggests. [(Phys.Org)](https://phys.org/news/2025-02-humans-earliest-jawed-fish-flexible.html).
+- Flexible joints evolved as jawed fish began life as predators. [(UChicago News)](https://biologicalsciences.uchicago.edu/news/flexible-joint-evolution).
+- Where do elbows and knees come from? Biologists track them back to our boneless, sharklike ancestors. [(Science.org)](https://www.science.org/content/article/where-do-elbows-and-knees-come-biologists-track-them-back-our-boneless-shark-ancestors).
+<!-- - Getting a grip on hand function. [(Yale SEAS)](https://seas.yale.edu/news-events/news/getting-grip-hand-function). -->
+
+## Talks
+
+- **On the role of stability in animal morphology and neural control**. [Ph.D. dissertation video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
+- **Size and shape of terrestrial animals**. [Video](https://youtu.be/C55yA767XjA) 
 
 
 <!-- What is the role of mechanics and physical principles in shaping and controlling the musculoskeletal system in vertebrates? The musculoskeletal system in vertebrates allows movement for motor tasks. Thus, it is ideal for studying how physical and mechanical laws that our bodies are subject to while performing motor tasks shape neural control over a lifetime and morphology over the course of millions of years. Furthermore, development and embryogenesis connect the widely-separated timescales between lifetimes and evolution, and increasing evidence shows that mechanical control plays a crucial role in skeletal morphogenesis and developmental plasticity in adults. I am interested in understanding the interplay between mechanical control and downstream genetic regulation during development in shaping the final form, to search for a relationship between the timescales of a lifetime and evolution. -->
