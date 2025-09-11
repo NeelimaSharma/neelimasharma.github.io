@@ -22,9 +22,11 @@ redirect_from:
 
 ![myimg](docs/assets/images/profile.png){: width="250px"}
 
-I am intrigued by how mechanics affects the evolution and development of morphology and control in biological entities. In my past research, I explored the role of mechanical stability on animal morphology and neural control. More recently, I am studying the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal system. 
+What role does mechanics play in the evolution and development of animal and plant morphology and control? In my past research, I explored the role of mechanical stability on animal morphology and neural control. More recently, I have expanded my studies to include the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal system. 
 
-I am presently a Postdoctoral Scholar in the [Shubin Lab](https://shubinlab.uchicago.edu) at the Department of Organismal Biology and Anatomy, University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](https://mvlab.yale.edu), advised by Prof. Madhu Venkadesan.
+Learn more about my research [here](https://neelimasharma.com/research/). 
+
+<!-- I am presently a Postdoctoral Scholar in the [Shubin Lab](https://shubinlab.uchicago.edu) at the Department of Organismal Biology and Anatomy, University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Sciences at Yale University in the [Biomechanics and Control Lab](https://mvlab.yale.edu), advised by Prof. Madhu Venkadesan.  -->
 
 <!-- [Other website](https://campuspress.yale.edu/nsharma/) -->
 
