@@ -168,15 +168,6 @@ defaults:
 #       author_profile: true
 #       share: true
 #       comments: true
-#   # _publications
-#   - scope:
-#       path: ""
-#       type: publications
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
 #   # _portfolio
 #   - scope:
 #       path: ""
@@ -186,12 +177,12 @@ defaults:
 #       author_profile: true
 #       share: true
 #       comment: true
-#   # _talks
+#   # _blog
 #   - scope:
 #       path: ""
-#       type: talks
+#       type: blog
 #     values:
-#       layout: talk
+#       layout: blog
 #       author_profile: true
 #       share: true
 
