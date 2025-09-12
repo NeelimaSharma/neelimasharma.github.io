@@ -32,7 +32,7 @@ title                    : "About"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Intrigued by the role of mechanics in organismal development and function."
-url                      : https://neelimasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neelimasharma.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeelimaSharma/neelimasharma.github.io"
 
