@@ -241,3 +241,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+sass:
+  style: compressed
+
+# Add the custom CSS in the head
+include:
+  - assets/css
