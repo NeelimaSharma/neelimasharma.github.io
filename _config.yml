@@ -242,9 +242,3 @@ compress_html:
   ignore:
     envs: development
 
-sass:
-  style: compressed
-
-# Add the custom CSS in the head
-include:
-  - assets/css
