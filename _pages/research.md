@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-How do mechanics and behavior affect embryological patterning, morphogenesis, and function of the vertebrate musculoskeletal system? By combining computational and experimental approaches, I aim to understand the role of mechanics and motor function in shaping the morphology and development of diverse vertebrate forms.
+How do mechanics and behavior affect embryological patterning, morphogenesis, and function of in biological entities? By combining computational and experimental approaches, I aim to understand the role of mechanics and motor function in shaping the morphology, function, and development of diverse forms.
 
-![figure1](figureoverall.png){: width="650px"}
+![figure1](figureoverall.png){: width="500px"}
 
 ## Publications
 
