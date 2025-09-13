@@ -10,7 +10,7 @@ See my publications at [Google scholar](https://scholar.google.com/citations?use
 
 ![figure1](figureoverall.png){: width="500px"}
 
-## Publications
+<!-- ## Publications -->
 
 <!-- - _Evolutionary origins of synovial joints_. **Sharma, N.**, Haridy, Y, Shubin, N. BioRxiv, 2023.  [Full text](https://www.biorxiv.org/content/biorxiv/early/2024/04/03/2024.04.02.587820.full.pdf)
 - _The minimum intervention principle of optimal control relates the uncontrolled manifold to muscle synergies_. **Sharma, N**, BioRxiv, 2022. [Full text](https://www.biorxiv.org/content/10.1101/2023.08.18.553939v1.full)
