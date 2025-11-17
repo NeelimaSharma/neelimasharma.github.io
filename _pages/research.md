@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-How do mechanics and behavior affect embryological patterning, morphogenesis, and function of biological entities? By combining computational and experimental approaches, I aim to understand the role of mechanics and motor function in shaping the morphology, function, and development of diverse forms.
+How do mechanics and behavior affect embryological patterning, morphogenesis, and function of biological entities? By combining computational and experimental approaches, I aim to understand the role of mechanics and motor function in shaping the morphology, function, and development of diverse forms. In this overall theme, some of the questions that have interested me are present below: 
 
 ![figure1](figureoverall.png){: width="500px"}
 
