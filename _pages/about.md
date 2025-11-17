@@ -15,7 +15,7 @@ The interdisciplinary nature of our questions calls for the use of tools from dy
 
 My previous work has contributed to our understanding of the role of mechanical stability on animal morphology and motor control. More recently, I have expanded my studies to include the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal systems. Learn more [here](https://neelimasharma.com/research/). 
 
-Prior to this, I was a postdoctoral scholar in the Department of Organismal Biology and Anatomy at the University of Chicago, in the group of Neil Shubin. I did my PhD with Madhusudhan Venkadesan at Yale University, New Haven.
+Prior to this, I was a postdoctoral scholar in the Department of Organismal Biology and Anatomy at the University of Chicago, in the group of Neil Shubin. I did my PhD at the Department of Mechanical Engineering and Materials Science with Madhusudhan Venkadesan at Yale University, New Haven, USA.
 
 
 <!-- # You don't need to edit this file, it's empty on purpose.
