@@ -42,10 +42,10 @@ author:
   avatar   : "" 
   # docs/assets/images/profile.png
   bio      : ""
-  location         : "Chicago, US"
-  employer         : "University of Chicago"
+  location         : "London, UK"
+  employer         : "University College London"
   uri              : # URL
-  email            : "neelima.sharma@uchicago.edu" 
+  email            : "neelima.sharma@ucl.ac.uk" 
     # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en"
   # impactstory      : # URL
@@ -62,7 +62,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : neelima-sharma-672376184
+  # linkedin         : neelima-sharma-672376184
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
