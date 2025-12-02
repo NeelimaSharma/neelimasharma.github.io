@@ -9,7 +9,7 @@ redirect_from:
 
 ![myimg](docs/assets/images/profile.png){: width="250px"}
 
-I am an incoming Lecturer in the Department of Cell and Developmental Biology at University College London. Our group is interested in the role of mechanics in the evolution, development, and function in biological systems. 
+I am a Lecturer of Computational Biology in the Department of Cell and Developmental Biology at University College London. Our group is interested in the role of mechanics in the evolution, development, and function in biological systems. 
 
 The interdisciplinary nature of our questions calls for the use of theoretical tools from the fields of dynamical systems, differential geometry, and continuum mechanics, and we also work closely with experimental biology approaches from developmental biology, embryology, biomechanics. 
 
