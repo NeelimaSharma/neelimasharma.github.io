@@ -7,6 +7,7 @@ author_profile: true
 
 ## Recent Press 
 
+- Artist-in-Residence inspired by research illustrations to imagine new sea creatures. [UCL News](https://www.ucl.ac.uk/life-sciences/news/artist-residence-inspired-research-illustrations-imagine-new-sea-creatures) 
 - Humans have the earliest jawed fish to thank for their flexible joints, study suggests. [(Phys.Org)](https://phys.org/news/2025-02-humans-earliest-jawed-fish-flexible.html).
 - Flexible joints evolved as jawed fish began life as predators. [(UChicago News)](https://biologicalsciences.uchicago.edu/news/flexible-joint-evolution).
 - Where do elbows and knees come from? Biologists track them back to our boneless, sharklike ancestors. [(Science.org)](https://www.science.org/content/article/where-do-elbows-and-knees-come-biologists-track-them-back-our-boneless-shark-ancestors).
