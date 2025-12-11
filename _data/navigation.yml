@@ -21,5 +21,5 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-  - title: "Pictures and movies"
-    url: /pictures/
+  # - title: "Pictures and movies"
+  #   url: /pictures/
