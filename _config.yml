@@ -43,11 +43,11 @@ author:
   # docs/assets/images/profile.png
   bio      : ""
   location         : "London, UK"
-  employer         : "[University College London](https://www.ucl.ac.uk/)"
+  employer         : "University College London"
   uri              : # URL
   email            : "neelima.sharma@ucl.ac.uk" 
     # Academic websites
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com/citations?user=Qg3qMcsAAAAJ&hl=en&oi=sra"
   # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1631-5918"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
