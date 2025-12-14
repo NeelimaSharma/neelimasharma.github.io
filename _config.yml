@@ -43,7 +43,7 @@ author:
   # docs/assets/images/profile.png
   bio      : ""
   location         : "London, UK"
-  employer         : "University College London [https://www.ucl.ac.uk/]"
+  employer         : "[University College London](https://www.ucl.ac.uk/)"
   uri              : # URL
   email            : "neelima.sharma@ucl.ac.uk" 
     # Academic websites
