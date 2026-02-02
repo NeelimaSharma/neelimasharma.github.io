@@ -9,13 +9,15 @@ redirect_from:
 
 ![myimg](docs/assets/images/profile.png){: width="250px"}
 
-I am a Lecturer (Group Leader/Assistant Professor) of Computational Biology in the Department of Cell and Developmental Biology at University College London. I am interested in unraveling the role of mechanics in the evolution, development, and function of biological systems. 
+I am a Lecturer (Group Leader/Assistant Professor) of Computational Biology in the Department of Cell and Developmental Biology at University College London. My group is interested in unraveling the role of mechanics in the evolution, development, and function of biological systems. 
 
-The interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics. 
+The interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, optimal control, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics. 
 
-My previous work has contributed to our understanding of the role of mechanical stability on animal morphology and motor control. More recently, I have expanded my studies to include the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal systems. Learn more [here](https://neelimasharma.com/research/). 
+Our previous work has contributed to the understanding of the role of mechanical stability on animal morphology and motor control. More recent studies include understanding the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal systems. 
 
-Prior to this, I was a postdoctoral scholar in the Department of Organismal Biology and Anatomy at the University of Chicago, in the group of Prof. Neil Shubin (2022-2025). I did my PhD at the Department of Mechanical Engineering and Materials Science with Prof. Madhusudhan Venkadesan at Yale University, New Haven, USA (2015-2021). 
+Prior to this, I was a postdoctoral scholar in the group of Prof. Neil Shubin (2022-2025) at the University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Science with Prof. Madhusudhan Venkadesan at Yale University, New Haven, USA (2015-2021). 
+
+Learn more about my research [here](https://neelimasharma.com/research/).
 
 <!-- # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
