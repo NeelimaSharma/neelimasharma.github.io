@@ -5,9 +5,40 @@ permalink: /research/
 author_profile: true
 ---
 
-How do mechanics and behavior affect embryological patterning, morphogenesis, and function of biological entities? By combining computational and experimental approaches, we aim to understand the role of mechanics and motor function in shaping the morphology, function, and development of diverse forms. In this overall theme, some of the questions that we think about are present below: 
+How do mechanics and behavior affect embryological patterning, morphogenesis, and function of biological entities? By combining computational and experimental approaches, we aim to understand how mechanics and motor function shape the morphology, function, and development of diverse forms. In this overall theme, some of the questions that we think about are: 
 
-![figure1](figureoverall.png){: width="500px"}
+![figure1](figureoverall.png){: width="800px"}
+
+**1. Stability as a governing principle of animal morphology and limb function**
+
+A central theme of my work is that mechanical stability—rather than maximum force output—governs how animals move, grasp, and are shaped. In my doctoral work, I demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. I further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
+
+Key publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2018), Frontiers in Robotics and AI(*equal contribution); Sharma (2021), Ph.D. Thesis, Yale University.
+
+ 
+
+**2. Evolutionary origins of synovial joints in vertebrates**
+
+Using comparative histology, micro-CT imaging, and phylogenetic analysis, I traced the evolutionary origins of synovial joints—the lubricated articulations critical for vertebrate locomotion—to the last common ancestor of jawed vertebrates. This work, published in PLoS Biology (2025), resolved a long-standing question about when and why these joints first evolved, and connected their appearance to the emergence of active predation in early jawed fish. A companion study, published in Nature (2025), extended this work to the co-evolution of vertebrate teeth and sensory exoskeletons.
+
+Key publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabbri, Nanglu, Sharma et al. (2025), Nature.
+
+ 
+
+**3. Allometric scaling and body form of terrestrial animals**
+
+I developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work, available as a preprint (arXiv:2602.00832) and currently under review at Science Advances, demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
+
+Key publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
+
+
+
+**4. Origin of tetrapod locomotion: the hip of Tiktaalik roseae**
+
+As part of a collaborative project in the Shubin lab, I contributed to a study of the pelvic girdle of Tiktaalik roseae, the iconic Devonian fish that bridges the fish-to-land transition. This manuscript, currently in revision at Nature, provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
+
+Key publication: E J HIllan, Sharma* et al. (2025), in revision.
+
 
 <!-- ## Publications -->
 
