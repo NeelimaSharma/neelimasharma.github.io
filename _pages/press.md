@@ -17,9 +17,12 @@ Getting a grip on hand function. [(Medical Xpress)](https://medicalxpress.com/ne
 
 When did our flexible and lubricated joints evolve? [(The Node)](https://thenode.biologists.com/when-did-our-flexible-and-lubricated-joints-evolve/research/). 
 
+## Podcast
 
-## Talks
+- **Why do our knuckles crack?** with Jorge Cham for ScienceStuff, iHeartRadio. [Spotify](https://open.spotify.com/episode/1ZZgnWAchbL1F9Oyd2n4ZW)
+
+<!-- ## Talks
 
 - **On the role of stability in animal morphology and neural control**. [Ph.D. dissertation video](https://www.youtube.com/watch?v=IGwHq4HRJcY)
 - **Size and shape of terrestrial animals**. [Video](https://youtu.be/C55yA767XjA) 
-  
+   -->
