@@ -11,19 +11,20 @@ How do mechanics and behavior affect embryological patterning, morphogenesis, an
 
 **1. Stability as a governing principle of animal morphology and limb function**
 
-A central theme of our work is that mechanical stability—rather than maximum force output—governs how animals move, grasp, and are shaped. We have demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
+A central theme of my work is that mechanical stability, rather than maximum force output, governs how animals move, grasp, and are shaped. 
+We demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
 
 Publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2018), Frontiers in Robotics and AI(*equal contribution); Sharma (2021), Ph.D. Thesis, Yale University.
 
 **2. Evolutionary origins of synovial joints and teeth in vertebrates**
-
-Using comparative histology, micro-CT imaging, and phylogenetic analysis, we traced the evolutionary origins of synovial joints—the lubricated articulations critical for vertebrate locomotion—to the last common ancestor of jawed vertebrates. This work, published in PLoS Biology (2025), resolved a long-standing question about when and why these joints first evolved. Another study, published in Nature (2025), showed the co-evolution of vertebrate teeth and sensory exoskeletons.
+    
+Using comparative histology, micro-CT imaging, and phylogenetic analysis, we traced the evolutionary origins of synovial joints, which are the lubricated articulations critical for vertebrate locomotion, to the last common ancestor of jawed vertebrates. This work, published in resolved a long-standing question about when these joints first evolved. Another study showed the co-evolution of vertebrate teeth and sensory exoskeletons.
 
 Publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabbri, Nanglu, Sharma et al. (2025), Nature.
 
 **3. Allometric scaling and body form of terrestrial animals**
 
-We developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work, available as a preprint (arXiv:2602.00832), demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
+    We developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
 
 Publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
 
@@ -31,7 +32,7 @@ Publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
 
 As part of a collaborative project, we studied the pelvic girdle of *Tiktaalik roseae*, the iconic Devonian fish that bridges the fish-to-land transition. This study provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
 
-Publication: E J Hillan, Sharma* et al. (2025), in revision.
+Publication: E J Hillan*, Sharma* et al. (2025), in revision.
 
 
 <!-- ## Publications -->
