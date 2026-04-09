@@ -11,8 +11,7 @@ How do mechanics and behavior affect embryological patterning, morphogenesis, an
 
 **1. Stability as a governing principle of animal morphology and limb function**
 
-A central theme of my work is that mechanical stability, rather than maximum force output, governs how animals move, grasp, and are shaped. 
-We demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
+A central theme of my work is that mechanical stability, rather than maximum force output, governs how animals move, grasp, and are shaped. We have demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
 
 Publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2018), Frontiers in Robotics and AI(*equal contribution); Sharma (2021), Ph.D. Thesis, Yale University.
 
@@ -24,7 +23,7 @@ Publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabb
 
 **3. Allometric scaling and body form of terrestrial animals**
 
-    We developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
+We developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
 
 Publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
 
