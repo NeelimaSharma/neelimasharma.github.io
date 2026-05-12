@@ -5,7 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-How do mechanics and behavior affect embryological patterning, morphogenesis, and function of biological entities? By combining computational and experimental approaches, we aim to understand how mechanics and motor function shape the morphology, function, and development of diverse forms. In this overall theme, some of the questions that we think about are: 
+<!-- Example -->
+<!-- Our lab studies how cells work and how they respond to changes in their environment. We combine experiments with advanced computer modelling to uncover the basic rules that govern how cells organise themselves and function.
+
+In our computational work, we build models based on known biological mechanisms and enhance them with machine learning to find new patterns in data. In our experimental work, we use automated lab techniques and high-throughput assays to measure how individual cells respond to different treatments on a large scale. By combining these approaches, we study how proteins send signals and control cell states, looking at everything from how single proteins behave to how entire cells interact with each other. This helps us understand processes like how cells grow, divide, and develop into different types.
+
+Our goal is to revisit and test classic ideas in biology – such as how proteins change shape to perform their functions, how chemical reactions happen in cells, and how cells decide their fate – using modern, large-scale data. Through this, we aim to discover new biological mechanisms and build models that not only explain existing data but also predict how cells behave in health and disease. -->
+
+Our lab studies how mechanics and behavior affect embryological patterning, morphogenesis, and function in animals to give rise to the development and evolution of diverse forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. In this overall theme, some of the topics that we are interested in are: 
 
 ![figure1](figureoverall.png){: width="800px"} 
 
@@ -33,6 +40,7 @@ As part of a collaborative project, we studied the pelvic girdle of *Tiktaalik r
 
 Publication: E J Hillan*, Sharma* et al. (2025), in revision.
 
+Our goal is to revisit and test how the musculoskeletal system evolves to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
 
 <!-- ## Publications -->
 
