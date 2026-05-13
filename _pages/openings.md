@@ -5,7 +5,7 @@ permalink: /openings/
 author_profile: true
 ---
 
-We are a new lab and welcome you to reach out to neelima dot sharma at ucl dot ac dot uk with a CV and research interests to discuss potential opportunities. Being an interdisciplinary lab, our questions require a deep interest in biology, keenness in performing wet-lab experiments, and skills in applied mathematics and mechanics. 
+We are a new lab and welcome you to reach out to neelima dot sharma at ucl dot ac dot uk with a CV and research interests to discuss potential opportunities. As an interdisciplinary lab, our research questions demand a strong interest in biology, enthusiasm for conducting wet-lab experiments, and expertise in applied mathematics and mechanics.
 
 ## PhD opportunities 
 
