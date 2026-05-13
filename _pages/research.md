@@ -13,7 +13,10 @@ In our computational work, we build models based on known biological mechanisms 
 Our goal is to revisit and test classic ideas in biology – such as how proteins change shape to perform their functions, how chemical reactions happen in cells, and how cells decide their fate – using modern, large-scale data. Through this, we aim to discover new biological mechanisms and build models that not only explain existing data but also predict how cells behave in health and disease. -->
 
 Our lab studies how mechanics and behavior affect embryological patterning, morphogenesis, and motor function in diverse animal forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. Our work spans the areas of mechanics, dynamics, robotics, comparative and evolutionary biomechanics, and developmental biology. Our work has direct applications to designing rehabilitation strategies for human health, and for designing robotic and prosthetic devices that are inspired from biological mechanisms.
-In this overall theme, some of the topics that we are interested in are: 
+
+Our goal is to revisit and test how the musculoskeletal system evolves to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
+
+In this overall theme, some of the topics that we are interested in and related publications are: 
 
 ![figure1](figureoverall.png){: width="800px"} 
 
@@ -40,8 +43,6 @@ Publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
 As part of a collaborative project, we studied the pelvic girdle of *Tiktaalik roseae*, the iconic Devonian fish that bridges the fish-to-land transition. This study provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
 
 Publication: E J Hillan*, Sharma* et al. (2025), in revision.
-
-Our goal is to revisit and test how the musculoskeletal system evolves to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
 
 <!-- ## Publications -->
 
