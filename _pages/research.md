@@ -12,7 +12,8 @@ In our computational work, we build models based on known biological mechanisms 
 
 Our goal is to revisit and test classic ideas in biology – such as how proteins change shape to perform their functions, how chemical reactions happen in cells, and how cells decide their fate – using modern, large-scale data. Through this, we aim to discover new biological mechanisms and build models that not only explain existing data but also predict how cells behave in health and disease. -->
 
-Our lab studies how mechanics and behavior affect embryological patterning, morphogenesis, and function in animals to give rise to the development and evolution of diverse forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. In this overall theme, some of the topics that we are interested in are: 
+Our lab studies how mechanics and behavior affect embryological patterning, morphogenesis, and motor function in diverse animal forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. Our work spans the areas of mechanics, dynamics, robotics, comparative and evolutionary biomechanics, and developmental biology. Our work has direct applications to designing rehabilitation strategies for human health, and for designing robotic and prosthetic devices that are inspired from biological mechanisms.
+In this overall theme, some of the topics that we are interested in are: 
 
 ![figure1](figureoverall.png){: width="800px"} 
 

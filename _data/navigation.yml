@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Join Us"
+    url: /openings/
     
   # - title: "Pictures and movies"
   #   url: /pictures/
