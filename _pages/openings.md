@@ -24,7 +24,7 @@ Learn more about Doctoral Training programmes at UCL [here](https://www.ucl.ac.u
 
 ## Postdoc opportunities
 
-We are keen to discuss fellowship applications for supporting postdoctoral candidates. Some of the avenues are: 
+I am keen to discuss fellowship applications for supporting postdoctoral candidates. Some avenues:
 - [UCL Excellence Fellowship/SLMS Fellowships Funding](https://www.ucl.ac.uk/life-sciences/smb/research-fellowships/fellowships-funding)
 - [BBSRC Discovery Fellowship](https://www.ukri.org/opportunity/bbsrc-discovery-fellowships/)
 - [UCL EPSRC Postdoctoral Pathway Fellowships](https://www.ucl.ac.uk/epsrc-doctoral-training/ucl-epsrc-postdoctoral-pathway-fellowships-formerly-doctoral-prize-fellowships)
@@ -32,7 +32,7 @@ We are keen to discuss fellowship applications for supporting postdoctoral candi
 - [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants/dorothy-hodgkin-fellowship/)
 - [NERC Independent Research Fellowships (IRFs)](https://www.ukri.org/opportunity/nerc-independent-research-fellowships/)
 
-Some additional avenues for international candidates are: 
+Additional avenues for international candidates: 
 - [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/)
 - [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 - [HFSP Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) 
