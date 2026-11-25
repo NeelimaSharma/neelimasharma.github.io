@@ -23,6 +23,9 @@ main:
     
   - title: "Join Us"
     url: /openings/
+
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Pictures and movies"
   #   url: /pictures/

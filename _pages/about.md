@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![myimg](docs/assets/images/profile.png){: width="250px"}
+![Neelima Sharma](/docs/assets/images/profile.jpg){: .align-left width="200px"}
 
-I am a Group Leader/Assistant Professor in the Department of Cell and Developmental Biology at University College London. My group is interested in unraveling the role of mechanics in the evolution, development, and function of biological systems. 
+I am an Assistant Professor in the Department of Cell and Developmental Biology at University College London. My group is interested in unraveling the role of mechanics in the evolution, development, and function of biological systems. 
 
 The interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, optimal control, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics. 
 
@@ -17,7 +17,9 @@ Our previous work has contributed to the understanding of the role of mechanical
 
 <!-- Prior to this, I was a postdoctoral scholar in the group of Prof. Neil Shubin (2022-2025) at the University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Science with Prof. Madhusudhan Venkadesan at Yale University, New Haven, USA (2015-2021).  -->
 
-Learn more [here](https://neelimasharma.com/research/).
+[Learn more about our research →](/research/)
+
+<div style="clear: both;"></div>
 
 <!-- # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
