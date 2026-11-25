@@ -9,8 +9,7 @@ We are a new lab and welcome you to reach out to neelima dot sharma at ucl dot a
 
 ## Open positions 
 
-If you are curious about the mechanical rules governing animals' macro form, my group has an interdisciplinary (biology + mechanics) PhD opportunity via 
-[UCL EPSRC Doctoral Landscape Award (UELA) Studentships](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships).
+If you are curious about the mechanical rules governing animals’ macro form, my group has an interdisciplinary (biology + mechanics) PhD opportunity via [UCL EPSRC Doctoral Landscape Award (UELA) Studentships](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships). Get in touch for more information or apply!
 
 ## PhD opportunities 
 
