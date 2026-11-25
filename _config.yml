@@ -29,7 +29,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "About"
-masthead_title           : "Sharma Lab" # shown at the left of the top bar; browser tabs still use title
+masthead_title           : "Home" # shown at the left of the top bar; browser tabs still use title
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Intrigued by the role of mechanics in organismal development and function."
