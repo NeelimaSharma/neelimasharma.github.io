@@ -26,7 +26,7 @@ A central theme of my work is that mechanical stability governs how animals move
 
 Publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2018), Frontiers in Robotics and AI(*equal contribution); Sharma (2021), Ph.D. Thesis, Yale University.
 
-<div style="clear: both;"></div>
+<div class="topic-gap"></div>
 
 **2. Evolutionary origins of synovial joints and teeth in vertebrates**
 
@@ -36,7 +36,7 @@ Using comparative histology, micro-CT imaging, and phylogenetic analysis, we tra
 
 Publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabbri, Nanglu, Sharma et al. (2025), Nature.
 
-<div style="clear: both;"></div>
+<div class="topic-gap"></div>
 
 **3. Allometric scaling and body form of terrestrial animals**
 
@@ -46,7 +46,7 @@ Continuing on the theme that mechanical stability is a fundamental constraint in
 
 Publication: Sharma & Venkadesan (2026), arXiv:2602.00832.
 
-<div style="clear: both;"></div>
+<div class="topic-gap"></div>
 
 **4. Origin of tetrapod locomotion: the hip of Tiktaalik roseae**
 
@@ -54,7 +54,7 @@ Publication: Sharma & Venkadesan (2026), arXiv:2602.00832.
 
 As part of a collaborative project, we are studying the pelvic girdle of *Tiktaalik roseae*, the iconic Devonian fish that bridges the fish-to-land transition. This study provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
 
-<div style="clear: both;"></div>
+<div class="topic-gap"></div>
 
 <!-- Publication: E J Hillan*, Sharma* et al. (2026). -->
 
