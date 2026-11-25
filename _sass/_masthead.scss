@@ -56,3 +56,20 @@
     font-weight: 700;
   }
 }
+
+/* Top bar: small-caps style links with the lab name on the left */
+.greedy-nav .visible-links a {
+  color: #2b2f33;
+  font-weight: 500;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+}
+
+.greedy-nav .visible-links .masthead__menu-item--lg a {
+  color: #111;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: none;
+  letter-spacing: 0;
+}
