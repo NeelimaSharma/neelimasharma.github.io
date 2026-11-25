@@ -37,6 +37,9 @@ Discussed *"Why do our knuckles crack?"* on the ScienceStuff podcast with Jorge 
 
 ---
 
+
+## Older
+
 ### January 2026 · Publication
 
 New work on the relationship between terrain unevenness and animal frontal shape is now available as a preprint.
