@@ -10,10 +10,11 @@ redirect_from:
 ![Neelima Sharma](/docs/assets/images/profile.jpg){: .align-left width="200px"}
 
 I am an Assistant Professor in the Department of Cell and Developmental Biology at University College London. My group is interested in unraveling the role of mechanics in the evolution, development, and function of biological systems. 
+We are interested in how mechanics and behavior affect embryological patterning, morphogenesis, and motor function in diverse animal forms. The broad and interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, optimal control, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics. So, we routinely combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. Our work spans the areas of mechanics, dynamics, robotics, comparative and evolutionary biomechanics, and developmental biology, and has direct applications for human health and design of robotic and prosthetic devices.
 
-The interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, optimal control, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics. 
+<!-- Our previous work has contributed to the understanding of the role of mechanical stability on animal morphology and motor control. More recent studies include understanding the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal systems.  -->
 
-Our previous work has contributed to the understanding of the role of mechanical stability on animal morphology and motor control. More recent studies include understanding the role of mechanics in the morphogenesis and function of the vertebrate musculoskeletal systems. 
+<!-- The interdisciplinary nature of these questions calls for the use of theoretical tools from the fields of dynamical systems, optimal control, differential geometry, and continuum mechanics, along with experimental biology approaches from developmental biology, embryology, biomechanics.  -->
 
 <!-- Prior to this, I was a postdoctoral scholar in the group of Prof. Neil Shubin (2022-2025) at the University of Chicago. My Ph.D. was at the Department of Mechanical Engineering and Materials Science with Prof. Madhusudhan Venkadesan at Yale University, New Haven, USA (2015-2021).  -->
 
