@@ -12,17 +12,17 @@ In our computational work, we build models based on known biological mechanisms 
 
 Our goal is to revisit and test classic ideas in biology – such as how proteins change shape to perform their functions, how chemical reactions happen in cells, and how cells decide their fate – using modern, large-scale data. Through this, we aim to discover new biological mechanisms and build models that not only explain existing data but also predict how cells behave in health and disease. -->
 
-Our lab studies how mechanics and behavior affect embryological patterning, morphogenesis, and motor function in diverse animal forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. Our work spans the areas of mechanics, dynamics, robotics, comparative and evolutionary biomechanics, and developmental biology. Our work has direct applications to designing rehabilitation strategies for human health, and for designing robotic and prosthetic devices that are inspired from biological mechanisms.
+We are interested in how mechanics and behavior affect embryological patterning, morphogenesis, and motor function in diverse animal forms. We combine mathematical, computational, and experimental approaches to uncover the basic rules that connect mechanics and physics to biology. Our work spans the areas of mechanics, dynamics, robotics, comparative and evolutionary biomechanics, and developmental biology. Our work has direct applications to designing rehabilitation strategies for human health, and for designing robotic and prosthetic devices that are inspired from biological mechanisms.
 
-Our goal is to revisit and test how the musculoskeletal system evolves to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
+Our goal is to revisit and test how the musculoskeletal systems evolve to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
 
 In this overall theme, some of the topics that we are interested in and related publications are: 
 
-![figure1](figureoverall.png){: width="800px"} 
+<!-- ![figure1](figureoverall.png){: width="800px"}  -->
 
 **1. Stability as a governing principle of animal morphology and limb function**
 
-A central theme of my work is that mechanical stability, rather than maximum force output, governs how animals move, grasp, and are shaped. We have demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
+A central theme of my work is that mechanical stability governs how animals move, grasp, and are shaped. We have demonstrated that the geometry of finger contact and the passive impedance of muscles set fundamental limits on fingertip force production in precision grips, establishing a new theoretical framework for understanding neural control. We further showed that passive viscoelastic properties of sarcomeres can stabilize mechanical linkages without active neural intervention.
 
 Publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2018), Frontiers in Robotics and AI(*equal contribution); Sharma (2021), Ph.D. Thesis, Yale University.
 
@@ -34,15 +34,15 @@ Publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabb
 
 **3. Allometric scaling and body form of terrestrial animals**
 
-We developed theoretical models to understand how and why the shapes and sizes of land animals are constrained by biomechanical principles. This work demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
+Continuing on the theme that mechanical stability is a fundamental constraint is animal morphology and function, we developed theoretical models to understand how and why the shapes and sizes of land animals are constrained and whether biomechanical principles are at work. This work demonstrates that the lateral stability of terrestrial locomotion imposes predictable constraints on animal body proportions across a vast range of body sizes, from insects to elephants.
 
-Publication: Sharma & Venkadesan (2026), arXiv:2602.00832 (submitted).
+Publication: Sharma & Venkadesan (2026), arXiv:2602.00832.
 
 **4. Origin of tetrapod locomotion: the hip of Tiktaalik roseae**
 
-As part of a collaborative project, we studied the pelvic girdle of *Tiktaalik roseae*, the iconic Devonian fish that bridges the fish-to-land transition. This study provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
+As part of a collaborative project, we are studying the pelvic girdle of *Tiktaalik roseae*, the iconic Devonian fish that bridges the fish-to-land transition. This study provides new evidence on the biomechanical origins of quadrupedalism, showing how pelvic anatomy was reorganized to support weight-bearing at the water-land transition.
 
-Publication: E J Hillan*, Sharma* et al. (2025), in revision.
+<!-- Publication: E J Hillan*, Sharma* et al. (2026). -->
 
 <!-- ## Publications -->
 

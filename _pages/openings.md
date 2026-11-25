@@ -5,7 +5,12 @@ permalink: /openings/
 author_profile: true
 ---
 
-We are a new lab and welcome you to reach out to neelima dot sharma at ucl dot ac dot uk with a CV and research interests to discuss potential opportunities. As an interdisciplinary lab, our research questions demand a strong interest in biology, enthusiasm for conducting wet-lab experiments, and expertise in applied mathematics and mechanics.
+We are a new lab and welcome you to reach out to neelima dot sharma at ucl dot ac dot uk with a CV and research interests to discuss potential opportunities. As an interdisciplinary lab, our research questions demand a strong interest in biology, enthusiasm for conducting wet-lab experiments, and expertise in applied mathematics and mechanics. 
+
+## Open positions 
+
+If you are curious about the mechanical rules governing animals' macro form, my group has an interdisciplinary (biology + mechanics) PhD opportunity via 
+[UCL EPSRC Doctoral Landscape Award (UELA) Studentships](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships).
 
 ## PhD opportunities 
 
