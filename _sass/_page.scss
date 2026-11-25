@@ -403,7 +403,18 @@
 /* Equal space between topics on the research page, whether the figure or the text runs longer */
 .topic-gap {
   clear: both;
-  padding-top: 0.5em;
+  padding-top: 2.5em;
+}
+
+/* A figure placed before a subheading: the heading starts level with the top of the figure */
+.page__content p:has(> img.align-left),
+.page__content p:has(> img.align-right) {
+  margin: 0;
+}
+
+.page__content p:has(> img.align-left) + h3,
+.page__content p:has(> img.align-right) + h3 {
+  margin-top: 0;
 }
 
 .page__content p:has(+ .topic-gap) {
