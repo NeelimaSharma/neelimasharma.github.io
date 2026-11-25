@@ -18,7 +18,7 @@ In this overall theme, some of the topics that we are interested in and related 
 
 <!-- ![figure1](figureoverall.png){: width="800px"}  -->
 
-**1. Stability as a governing principle of animal morphology and limb function**
+### Stability as a governing principle of animal morphology and limb function
 
 ![Finger](/_pages/finger.png){: .align-left width="35%"}
 
@@ -28,7 +28,7 @@ Publications: Sharma & Venkadesan (2022), PNAS; Nguyen*, Sharma* & Venkadesan (2
 
 <div class="topic-gap"></div>
 
-**2. Evolutionary origins of synovial joints and teeth in vertebrates**
+### Evolutionary origins of synovial joints and teeth in vertebrates
 
 ![Joints](/_pages/joints.png){: .align-right width="35%"}
 
@@ -38,7 +38,7 @@ Publications: Sharma, Haridy & Shubin (2025), PLoS Biology; Haridy, Norris, Fabb
 
 <div class="topic-gap"></div>
 
-**3. Allometric scaling and body form of terrestrial animals**
+### Allometric scaling and body form of terrestrial animals
 
 ![Body plan](/_pages/bodyplan.png){: .align-left width="35%"}
 
@@ -48,7 +48,7 @@ Publication: Sharma & Venkadesan (2026), arXiv:2602.00832.
 
 <div class="topic-gap"></div>
 
-**4. Origin of tetrapod locomotion: the hip of Tiktaalik roseae**
+### Origin of tetrapod locomotion: the hip of *Tiktaalik roseae*
 
 ![Tiktaalik](/_pages/tiktaalik.png){: .align-right width="35%"}
 

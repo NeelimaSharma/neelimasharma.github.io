@@ -403,7 +403,7 @@
 /* Equal space between topics on the research page, whether the figure or the text runs longer */
 .topic-gap {
   clear: both;
-  padding-top: 2.5em;
+  padding-top: 0.5em;
 }
 
 .page__content p:has(+ .topic-gap) {
