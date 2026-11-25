@@ -12,9 +12,7 @@ In our computational work, we build models based on known biological mechanisms 
 
 Our goal is to revisit and test classic ideas in biology – such as how proteins change shape to perform their functions, how chemical reactions happen in cells, and how cells decide their fate – using modern, large-scale data. Through this, we aim to discover new biological mechanisms and build models that not only explain existing data but also predict how cells behave in health and disease. -->
 
-Our current goal is to revisit and test how the musculoskeletal systems evolve to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics.
-
-In this overall theme, some of the topics that we are interested in and related publications are: 
+Our current goal is to revisit and test how the musculoskeletal systems evolve to perform diverse functions, how morphogenesis gives rise to these diverse morphologies, and the role of mechanics and physics in determining the relationship between development, evolution, and function. We perform our own experiments or collaborate with experimentalists. Through this, we aim to discover mechanisms that not only explain biological phenomena but also help design rehabilitation strategies and prosthetics. In this overall theme, some of the topics that we are interested in and related publications are: 
 
 <!-- ![figure1](figureoverall.png){: width="800px"}  -->
 
